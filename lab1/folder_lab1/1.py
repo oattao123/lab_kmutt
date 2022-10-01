@@ -1,0 +1,1 @@
+print(f"Cutic, Cutie, little girl,\n\tHow I wonder what you are!\n\t\tUP above the world so hight,\n\t\tlike a star in the sky. \nCutie, cutie, little girl,\n\tHow I wonder what you are!  ")

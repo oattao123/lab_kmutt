@@ -1,0 +1,1 @@
+celsius = float(input("Please enter the temperature in Celsius: "));fahrenheit = (celsius * 1.8) + 32 ;celsiuss = str(celsius);fahrenheits = str(fahrenheit);print(f"The {celsiuss} Celcius = {fahrenheits} Farenhite");
